@@ -1,1 +1,1 @@
-# Bangladesh-weather-prediction
+# BangladeshWeatherPrediction
